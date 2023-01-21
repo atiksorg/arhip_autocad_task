@@ -37,9 +37,7 @@
 
 ![Резельтат расстановки типовых секций по данным из САПР АРХИП в Autocad](https://github.com/atiksorg/arhip_autocad_task/blob/main/autocad_result.png)
 
-DWG файл:
-
-[a link](https://github.com/atiksorg/arhip_autocad_task/blob/main/47.21.0301005.13.dwg)
+### [DWG файл](https://github.com/atiksorg/arhip_autocad_task/blob/main/47.21.0301005.13.dwg)
 
 ### Требования к разработке
 
