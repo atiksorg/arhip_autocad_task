@@ -21,3 +21,13 @@
 Визуально это выглядит так:
 
 ![Расстановка секций, полученная от САПР АРХИП](https://github.com/atiksorg/arhip_autocad_task/blob/main/arhip_area_result.png)
+
+В Autocad мы имеем 2 типовые секции (вертикальную и горизонтальную):
+
+![Типовые секции в Autocad](https://github.com/atiksorg/arhip_autocad_task/blob/main/autocad_sections.png)
+
+Задача: Сгенерировать файл в формате .DWG в котором типовые секции были расположены на участке по данным из САПР АРХИП.
+
+Вот пример результата работы:
+
+![Резельтат расстановки типовых секций по данным из САПР АРХИП в Autocad](https://github.com/atiksorg/arhip_autocad_task/blob/main/autocad_result.png)
